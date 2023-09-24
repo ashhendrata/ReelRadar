@@ -128,7 +128,7 @@ export default function Home() {
                                 </span>
                               </>
                             ) : (
-                              <>No matches found :(</>
+                              <>No matches found</>
                             )}
                           </span>
                         ) : (
