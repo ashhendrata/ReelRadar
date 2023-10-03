@@ -6,7 +6,7 @@ export default async function handler(req, res) {
     params: { title: req.query.title, page: "1" },
     headers: {
       "x-rapidapi-host": "ott-details.p.rapidapi.com",
-      "x-rapidapi-key": '3a6a462683msh09ffe98c1d2cd54p162086jsn5c56c8329b84',
+      "x-rapidapi-key": MY-KEY,
     },
   };
   axios
