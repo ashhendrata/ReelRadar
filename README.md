@@ -5,11 +5,9 @@
 *Enter ReelRadar, your new best friend for movie nights. No more back-and-forth between platforms or endless browsing. We are here to help.*
 
 
-🎥 This project has a robust search functionality that allows users to discover where specific movies or TV shows are available across multiple streaming platforms! &nbsp;
-
-🍿 With the use of Next.js and TailwindCSS for responsive styling, the project as a whole allows users to enter any movie or TV show and find out where they can watch them. &nbsp;
-
-💿 In order to display up-to-date information, I used third-party API to fetch details about the inputed movies or TV shows.
+- 🎥 This project has a robust search functionality that allows users to discover where specific movies or TV shows are available across multiple streaming platforms!
+- 🍿 With the use of Next.js and TailwindCSS for responsive styling, the project as a whole allows users to enter any movie or TV show and find out where they can watch them. 
+- 💿 In order to display up-to-date information, I used third-party API to fetch details about the inputed movies or TV shows.
 
 ## Instructions:
 - Enter the movie or TV show of your choice
