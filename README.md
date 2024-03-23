@@ -2,7 +2,7 @@
 
 *Ever get stuck endlessly scrolling through streaming platforms, trying to decide what to watch? I feel you—it's a real struggle!*
 
-*Enter ReelRadar, your new best friend for movie nights. No more back-and-forth between platforms or endless browsing. We are here to help. *
+*Enter ReelRadar, your new best friend for movie nights. No more back-and-forth between platforms or endless browsing. We are here to help.*
 
 
 Stop wasting time searching and start enjoying. With ReelRadar, discovering your next favorite flick is as easy as pressing play. Say hello to stress-free streaming with ReelRadar.
