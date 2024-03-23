@@ -9,9 +9,11 @@ In order to display up-to-date information, I used third-party API to fetch deta
 - Once the page has loaded, click on the text "Available on..." to find out on what platforms you can stream the movie or TV show
 - Click on the platform you'd like to use and you'll be redirected to that page!
 
+
 https://github.com/ashhendrata/ReelRadar/assets/134671782/35f619bc-126b-4bab-a062-c419a64bfa57
 
+
 ## Future ideas:
-[ ] Chatbot that helps users decide what movie or show to watch, thus streamlining the movie/show selection process
-[ ] A bookmarking feature
-[ ] Login so that one can store a list of movies
+[] Chatbot that helps users decide what movie or show to watch, thus streamlining the movie/show selection process
+[] A bookmarking feature
+[] Login so that one can store a list of movies
