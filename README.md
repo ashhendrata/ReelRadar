@@ -2,7 +2,7 @@
 
 *Ever get stuck endlessly scrolling through streaming platforms, trying to decide what to watch? I feel you—it's a real struggle!*
 
-*Enter ReelRadar, your new best friend for movie nights. No more back-and-forth between platforms or endless browsing. We are here to help.*
+*Enter ReelRadar, your new best friend for movie nights. No more back-and-forth between platforms or endless browsing. We are here to help.* &nbsp;
 
 
 - 🎥 This project has a robust search functionality that allows users to discover where specific movies or TV shows are available across multiple streaming platforms!
