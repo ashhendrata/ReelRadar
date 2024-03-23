@@ -10,7 +10,9 @@ In order to display up-to-date information, I used third-party API to fetch deta
 - Click on the platform you'd like to use and you'll be redirected to that page!
 
 &nbsp;
+
 https://github.com/ashhendrata/ReelRadar/assets/134671782/35f619bc-126b-4bab-a062-c419a64bfa57
+
 &nbsp;
 
 ## Future ideas:
