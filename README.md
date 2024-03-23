@@ -1,4 +1,4 @@
-# ReelRadar: Your One-Stop Spot for Finding Movies and TV Shows
+# ReelRadar: Your One-Stop Spot for Finding Movies and TV Shows 🎥 🍿
 
 This project has a robust search functionality that allows users to discover where specific movies or TV shows are available across multiple streaming platforms!
 With the use of Next.js and TailwindCSS for responsive styling, the project as a whole allows users to enter any movie or TV show and find out where they can watch them.
@@ -19,3 +19,8 @@ https://github.com/ashhendrata/ReelRadar/assets/134671782/35f619bc-126b-4bab-a06
 - [ ] Chatbot that helps users decide what movie or show to watch, thus streamlining the movie/show selection process
 - [ ] A bookmarking feature
 - [ ] Login so that one can store a list of movies
+
+## Challenges and lessons
+- Learned the power of Next.js: data fetching, CSS support, React server components, and more!
+- My greatest difficulty was the process of fetching data from the API. However, I'm glad this project challenged me and made me more confident with building API endpoints :)
+- I realize the power of long-term project development: I've worked on this project for a while, constantly updating it with new ideas!
