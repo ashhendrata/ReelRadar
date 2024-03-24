@@ -1,5 +1,7 @@
 # 🎞️ ReelRadar 🎞️ Your One-Stop Spot for Finding Movies and TV Shows
 
+&nbsp;
+
 *Ever get stuck endlessly scrolling through streaming platforms, trying to decide what to watch? I feel you—it's a real struggle!*
 *Enter ReelRadar, your new best friend for movie nights. No more back-and-forth between platforms or endless browsing. We are here to help.* 
 
