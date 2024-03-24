@@ -1,4 +1,4 @@
-# ReelRadar: Your One-Stop Spot for Finding Movies and TV Shows 
+# 🎞️ ReelRadar: Your One-Stop Spot for Finding Movies and TV Shows 🎞️
 
 *Ever get stuck endlessly scrolling through streaming platforms, trying to decide what to watch? I feel you—it's a real struggle!*
 *Enter ReelRadar, your new best friend for movie nights. No more back-and-forth between platforms or endless browsing. We are here to help.* 
@@ -31,7 +31,7 @@ https://github.com/ashhendrata/ReelRadar/assets/134671782/35f619bc-126b-4bab-a06
 
 &nbsp;
 
-## Challenges and lessons
+## Challenges and lessons:
 - Learned the power of Next.js: data fetching, CSS support, React server components, and more!
 - My greatest difficulty was the process of fetching data from the API. However, I'm glad this project challenged me and made me more confident with building API endpoints :)
 - I realize the power of long-term project development: I've worked on this project for a while, constantly updating it with new ideas!
